@@ -1,0 +1,4 @@
+github.com/Angus-Warman/httpmin v0.0.2 h1:p67kK2RsztPKT7uhdOCkB0eJoDMfnC8rfE//A43DWX8=
+github.com/Angus-Warman/httpmin v0.0.2/go.mod h1:hEA80hrjN7CozDFkseT3HOHHBk3s2gbNHFJmBedL8lk=
+github.com/golang-jwt/jwt/v5 v5.3.1 h1:kYf81DTWFe7t+1VvL7eS+jKFVWaUnK9cB1qbwn63YCY=
+github.com/golang-jwt/jwt/v5 v5.3.1/go.mod h1:fxCRLWMO43lRc8nhHWY6LGqRcf+1gQWArsqaEUEa5bE=
