@@ -8,5 +8,10 @@ import (
 
 func main() {
 	key := "FOLDER"
-	httpmin.Setup().DefaultEnvVar(key, "./").ServeFolder(os.Getenv(key)).Run()
+
+	httpmin.
+		New().
+		DefaultEnvVar(key, "./").
+		ServeFolder(os.Getenv(key)).
+		Run()
 }
